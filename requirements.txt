@@ -1,0 +1,16 @@
+The following libraries must be installed in python in order to run the game:
+
+pydealer
+To install opencv, run "pip install pydealer"
+
+
+playsound
+To install opencv, run "pip install playsound"
+
+
+opencv 
+To install opencv, run "pip install opencv-python"
+
+
+numpy 
+To install opencv, run "pip install numpy"
